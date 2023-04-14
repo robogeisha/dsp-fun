@@ -3,7 +3,7 @@
 comb filter reverb 
 
 
-his C code implements a simple reverb effect on an input audio file.
+This C code implements a simple reverb effect on an input audio file.
 
 First, the code defines a struct called CombFilter which contains information about each individual filter used to create the reverb effect. Each CombFilter struct contains a buffer for storing delayed audio samples, as well as several parameters that control the behavior of the filter, such as feedback and lowpassFeedback.
 
