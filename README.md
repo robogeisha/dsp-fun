@@ -7,4 +7,4 @@ This C code demonstrates the implementation of a simple reverb effect on an inpu
 
 filters
 
-implementation on various filters 
+implementation of various filters 
